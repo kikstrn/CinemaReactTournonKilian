@@ -1,0 +1,26 @@
+body {
+    background-color: brown;
+}
+
+nav {
+    border-bottom: 1px solid burlywood;
+    background-color: burlywood;
+    color: cornsilk;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+nav>a {
+    padding: 10px;
+    margin: 10px;
+    text-decoration: brown;
+    color: brown;
+    font-size: xx-large;
+}
+
+.logo {
+    background-color: brown;
+    display: flex;
+    justify-content: start;
+}

@@ -1,0 +1,26 @@
+.divCardFilm {
+    margin-top: 20px;
+}
+
+.image {
+    text-align:center;
+    margin:auto;
+    display:flex;
+}
+
+.savoirplus {
+    text-decoration: none;
+    color: brown;
+    align-items:center;
+    margin:auto;
+    display:flex;
+    background: burlywood;
+}
+
+body{
+    background: brown;
+}
+
+.link {
+    text-decoration: none;
+}
